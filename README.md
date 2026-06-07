@@ -60,8 +60,24 @@ An innovative climate-tech platform designed to connect key stakeholders across 
 
 ### 📫 Connect With Me
 
+## 🚀 Current Focus
+
+- Scaling recycling operations
+- Building GETSO WASTECONNECT
+- Circular Economy Innovation
+- Climate Impact Projects
+- Investor & Strategic Partnership Engagement
 Founder & CEO  
 Getso Scraps & Multi-purpose Company Ltd  
 Lagos, Nigeria 🇳🇬
+
+## 📈 Impact Highlights
+
+- ♻️ Active waste collection and recycling operations in Nigeria
+- 🌍 Building GETSO WASTECONNECT climate-tech platform
+- 🚛 Working with waste collectors, recyclers, and manufacturers
+- 📱 Developing a digital recycling ecosystem
+- 👥 Creating green jobs and economic opportunities
+- 🌱 Supporting circular economy development across Africa
 
 Building a cleaner, greener, and more sustainable future through innovation and recycling.
