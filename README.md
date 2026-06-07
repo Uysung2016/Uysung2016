@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Usman Yusif Suraj 👋
 
-<!--
-**Uysung2016/Uysung2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder & CEO, Getso Scraps & Multi-purpose Company Ltd ♻️
 
-Here are some ideas to get you started:
+I am a ClimateTech entrepreneur, recycling advocate, and sustainability innovator dedicated to transforming waste into economic opportunities across Nigeria and Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **GETSO WASTECONNECT**, a digital platform connecting households, businesses, waste collectors, recyclers, logistics providers, and manufacturers within a transparent and efficient recycling ecosystem.
+
+---
+
+## 🌍 About Me
+
+- ♻️ Founder & CEO of Getso Scraps & Multi-purpose Company Ltd
+- 🌱 Climate Action & Sustainability Advocate
+- 🚛 Waste Management & Recycling Professional
+- 📱 Founder of GETSO WASTECONNECT
+- 🤝 Open to Strategic Partnerships & Investment Opportunities
+- 🇳🇬 Based in Lagos, Nigeria
+
+---
+
+## 🚀 Current Focus
+
+- Scaling recycling operations
+- Building GETSO WASTECONNECT
+- Circular Economy Innovation
+- Climate Impact Projects
+- Investor & Strategic Partnership Engagement
+
+---
+
+## 🎯 Areas of Interest
+
+- Climate Technology
+- Recycling Infrastructure
+- Circular Economy
+- Waste-to-Wealth Solutions
+- Environmental Sustainability
+- Green Jobs Creation
+
+---
+
+## 🌱 Sustainable Development Goals (SDGs)
+
+- SDG 8: Decent Work & Economic Growth
+- SDG 9: Industry, Innovation & Infrastructure
+- SDG 11: Sustainable Cities & Communities
+- SDG 12: Responsible Consumption & Production
+- SDG 13: Climate Action
+
+---
+
+## 🏢 Featured Project
+
+### GETSO WASTECONNECT
+
+An innovative climate-tech platform designed to connect key stakeholders across the recycling value chain and accelerate circular economy development in Nigeria and Africa.
+
+---
+
+### 📫 Connect With Me
+
+Founder & CEO  
+Getso Scraps & Multi-purpose Company Ltd  
+Lagos, Nigeria 🇳🇬
+
+Building a cleaner, greener, and more sustainable future through innovation and recycling.
